@@ -1,9 +1,10 @@
 --------------------------
 WHY USE THIS GARBAGE?
 --------------------------
-Well, it cuts back on CPU usage, so you can watch at higher qualities on older computers (or watch it at all).
+It cuts back on CPU usage, so you can watch at higher qualities on older computers (or watch it at all). Instead of using the heavy flash or HTML5 player, it uses your prefered video playback software!
 It handles buffering a lot better (it won't stop randomly and annoyingly like the browser does, it just skips a few frames).
 Better quality? Lower internet usage? Placebo? You tell me.
+It removes Twitch ads, you should oficially support twitch! @ www.twitch.tv
 
 --------------------------
 REQUISITES
