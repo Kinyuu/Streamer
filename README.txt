@@ -33,3 +33,4 @@ OBSERVATIONS
 2. Don't close Streamer.exe after opening the player, otherwise it'll stop the stream.
 3. After closing the player, Streamer.exe will close automaticly and free some resources, don't force close it too.
 4. If you have a really old computer, don't enable chat.
+5. You can change your 5 favorite streams in the config file
